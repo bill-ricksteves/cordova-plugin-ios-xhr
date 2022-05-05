@@ -68,6 +68,8 @@
 
   FileHandler._EXT_TO_MIME = {
     ".img": "image/jpeg",
+    ".txt": "text/plain",
+    ".mp3": "audio/mpeg",
     ".png": "image/png",
     ".gif": "image/gif",
     ".xml": "application/xml",
